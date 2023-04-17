@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Noé</h1>
-<h3 align="center">A passionate Frontend developer from France</h3>
+<h3 align="center">A passionate Frontend Developer from France, specializing in React.js, JavaScript, and TypeScript</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=carlnoe&label=Profile%20views&color=0e75b6&style=flat" alt="carlnoe" />
-</p>
+<p>🌱 I’m currently focusing on expanding my <strong>knowledge of React.js and TypeScript</strong></p>
 
-<p>🌱 I’m currently learning to expand my <strong>knowledge of React.js</strong></p>
-
-<h3>Contact me:</h3>
+<h3>Connect with me:</h3>
 <p>
   <a href="https://linkedin.com/in/carl-noe" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carl-noe" height="30" width="40" />
@@ -19,7 +15,7 @@
 
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
 <div style="width: 50%;">
-<h3>Languages:</h3>
+<h3>Languages and Frameworks:</h3>
 <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -27,7 +23,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 </p>
 </div>
 
@@ -38,8 +33,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
-    
 </p>
 </div>
 </div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=carlnoe&label=Profile%20views&color=0e75b6&style=flat" alt="carlnoe" />
+</p>
