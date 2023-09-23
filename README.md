@@ -1,41 +1,46 @@
-<h1 align="center">Hi 👋, I'm Noé</h1>
-<h3 align="center">A passionate Frontend Developer from France, specializing in React.js, JavaScript, and TypeScript</h3>
+# Hi there, I'm Noé 👋👨‍💻
 
-<p>🌱 I’m currently focusing on expanding my <strong>knowledge of React.js and TypeScript</strong></p>
+## Frontend Developer | React & TypeScript Enthusiast 🚀
 
-<h3>Connect with me:</h3>
-<p>
-  <a href="https://linkedin.com/in/carl-noe" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carl-noe" height="30" width="40" />
-  </a>
-  <a href="mailto:noe.carldev@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://user-images.githubusercontent.com/78510016/213812088-00649427-a3b8-4c50-8e19-9e20fe7159ed.png" alt="" height="30" width="40" />
-  </a>
-</p>
+I'm a frontend developer currently based in Luxembourg 🇱🇺, but originally from France 🇫🇷. I'm all about writing clean, efficient code and building awesome web apps. Let's code the future, today!
 
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
-<div style="width: 50%;">
-<h3>Languages and Frameworks:</h3>
-<p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/>
-</p>
-</div>
+---
 
-<div style="width: 50%;">
-<h3>Tools:</h3>
-<p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
-</p>
-</div>
-</div>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=carlnoe&label=Profile%20views&color=0e75b6&style=flat" alt="carlnoe" />
-</p>
+### 🛠 Tech Stack
+
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
+
+---
+
+### 🎯 Latest Projects
+
+- **Steam Game List Clone** - An interactive platform to explore games.
+  - Tech Stack: ElasticSearch, React, TypeScript, Tailwind CSS, Redux.
+  - Features: Infinite scrolling, data fetching, debouncing.
+
+- **Sneaker Resell Dashboard** - A dashboard for sneaker resellers.
+  - Tech Stack: React, TypeScript, Styled Components, Redux.
+
+---
+
+### 💡 Philosophy
+
+Never stop learning 📚. My goal is to be the most versatile developer I can be, both technically and in my soft skills. Collaboration and knowledge sharing are the keys 🔑.
+
+---
+
+### 📫 How to reach me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=LinkedIn)](https://linkedin.com/in/carl-noe)
+[![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=Gmail)](mailto:noe.carldev@gmail.com)
+
+---
+
+⭐️ From carlnoe
