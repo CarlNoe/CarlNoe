@@ -28,7 +28,3 @@ Never stop learning 📚. My goal is to be the most versatile developer I can be
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=LinkedIn)](https://linkedin.com/in/carl-noe)
 [![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=Gmail)](mailto:noe.carldev@gmail.com)
-
----
-
-⭐️ From carlnoe
