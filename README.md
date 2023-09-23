@@ -8,14 +8,13 @@ I'm a frontend developer currently based in Luxembourg 🇱🇺, but originally 
 
 ### 🛠 Tech Stack
 
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
 
 ---
 
