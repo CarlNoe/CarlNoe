@@ -19,17 +19,6 @@ I'm a frontend developer currently based in Luxembourg 🇱🇺, but originally 
 
 ---
 
-### 🎯 Latest Projects
-
-- **Steam Game List Clone** - An interactive platform to explore games.
-  - Tech Stack: ElasticSearch, React, TypeScript, Tailwind CSS, Redux.
-  - Features: Infinite scrolling, data fetching, debouncing.
-
-- **Sneaker Resell Dashboard** - A dashboard for sneaker resellers.
-  - Tech Stack: React, TypeScript, Styled Components, Redux.
-
----
-
 ### 💡 Philosophy
 
 Never stop learning 📚. My goal is to be the most versatile developer I can be, both technically and in my soft skills. Collaboration and knowledge sharing are the keys 🔑.
