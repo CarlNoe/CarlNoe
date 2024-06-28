@@ -2,7 +2,7 @@
 
 ## Frontend Developer | React & TypeScript Enthusiast 🚀
 
-I'm a frontend developer currently based in Luxembourg 🇱🇺, but originally from France 🇫🇷. I'm all about writing clean, efficient code and building awesome web apps. Let's code the future, today!
+I'm a frontend developer currently working in Luxembourg 🇱🇺, but originally from France 🇫🇷. I'm all about writing clean, efficient code and building awesome web apps. Let's code the future, today!
 
 ---
 
